@@ -1,3 +1,12 @@
+# Cyber Awareness 2022
+> Updated 31-OCT-2022
+---
+##### Steps:
+
+1. Launch Cyber Awareness from `cs.signal.army.mil`
+2. Close Cyber Awareness and in the same tab navigate to `https://cs.signal.army.mil/UserMngmt/CyberEnd.asp`
+3. Done
+
 # Cyber Awareness 2020
 > Updated 27-AUG-2020
 ---
