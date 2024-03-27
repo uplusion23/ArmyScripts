@@ -1,3 +1,44 @@
+# Cyber Awareness 2024
+> Updated 27-Mar-24
+---
+## Preparing to Start
+1. **Ensure Eligibility:** Verify that you are required or eligible to take the DoD Cyber Awareness Challenge as part of your role within or in relation to the Department of Defense.
+2. **Find the Course:** Navigate to the official website where the DoD Cyber Awareness Challenge is hosted. This could be on a DoD learning management system or a specific cybersecurity training portal.
+3. **Access Requirements:** Ensure you have the necessary credentials to log in, such as a CAC (Common Access Card), PIV (Personal Identity Verification) card, or a designated username and password.
+4. **Technical Check:** Perform a technical check of your computer system to ensure it meets the minimum requirements for the challenge. This includes checking your internet connection, browser compatibility, and any required software like Adobe Flash Player or a specific web browser.
+5. **Set Aside Time:** Allocate sufficient uninterrupted time to complete the challenge. While the time to complete can vary, setting aside at least 1 to 2 hours is advisable.
+6. **Launch the Course:** After logging in, locate the current year’s DoD Cyber Awareness Challenge and launch it.
+
+## Engaging with the Content
+7. **Introduction:** Pay attention to the introductory segment, which may provide important context or changes in the current year's challenge.
+8. **Module Navigation:** Understand how to navigate between different modules or sections of the challenge. This may involve clicking on arrows, buttons, or tabs.
+9. **Content Consumption:** Diligently read or listen to all the content provided. This will include text, videos, and interactive segments covering various aspects of cybersecurity.
+10. **Note-Taking:** Consider taking notes on key points, especially those related to policies or practices specific to your role or organization within the DoD.
+11. **Interactive Elements:** Engage with interactive elements such as simulations, drag-and-drop exercises, or decision-making scenarios that test your understanding of the material.
+12. **Assessments:** Complete any quizzes or assessments at the end of sections or modules. These may require a certain score to proceed, so pay attention to the feedback provided for incorrect answers.
+
+## Completing the Challenge
+13. **Final Assessment:** Prepare for and complete the final assessment, which typically encompasses a range of topics covered throughout the challenge.
+14. **Review Incorrect Answers:** If given the option, review any incorrect answers to understand your mistakes. This may involve revisiting specific sections of the content.
+15. **Completion Confirmation:** Upon successfully passing the final assessment, look for a confirmation screen or message indicating you have completed the challenge.
+16. **Certificate of Completion:** Follow instructions to download or print a certificate of completion. This may involve entering your name and selecting your organization from a dropdown menu.
+17. **Reporting Completion:** Report the completion of the challenge to your supervisor or designated cybersecurity training coordinator within your department or agency, if required.
+18. **Record Keeping:** Save a copy of your completion certificate in a safe place for your records. You may need to present this at a later date or during audits.
+19. **Feedback Submission:** If offered, consider submitting feedback on the challenge to help improve future versions. This could include comments on the content, navigation issues, or technical problems encountered.
+
+## Post-Completion
+20. **Continuous Learning:** Cybersecurity is an evolving field. Stay informed about new threats, policies, and best practices by engaging in continuous learning opportunities, attending briefings, and participating in additional cybersecurity training courses.
+21. **Apply Knowledge:** Implement the cybersecurity practices and principles learned from the challenge in your daily work activities to help protect DoD information systems and networks.
+22. **Share Knowledge:** Share insights and knowledge gained with colleagues to foster a culture of cybersecurity awareness within your organization.
+
+
+
+
+# Cyber Awareness 2020
+> Updated 27-AUG-2020
+
+
+
 # Cyber Awareness 2022
 > Updated 31-OCT-2022
 ---
