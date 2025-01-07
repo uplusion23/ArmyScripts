@@ -1,6 +1,6 @@
 # INSTRUCTIONS
 
-* Open your class in Internet Explorer.
+* Open the training in your browser.
 * Press the F12 key when your class is fully loaded. This will open the developer tools.
 * Click on the Console tab of the developer tools window.
 * Paste the following code in the text box at the bottom of the console tab.
